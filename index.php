@@ -1,3 +1,5 @@
 <?php
-echo 'monster'; 
+
+echo 'monster'.' '.'реал транс !!!';
+ 
 ?>
