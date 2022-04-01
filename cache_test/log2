@@ -1,6 +1,14 @@
-cccccccccccc
-c
-c
-c
-c
+      string  Extended\ Module: audio/x-mod
+audio/x-tracker-module
+>17   string  >\0             Title: "%s"
 
+21      string/c        \!SCREAM!       audio/x-mod
+audio/x-screamtracker-module
+21      string  BMOD2STM        audio/x-mod
+audio/x-screamtracker-module
+1080    string  M.K.            audio/x-mod
+audio/x-protracker-module
+>0     string  >\0             Title: "%s"
+1080    string  M!K!            audio/x-mod
+audio/x-protracker-module
+>0     string  >\0             Title: "%s"
