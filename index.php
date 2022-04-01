@@ -31,7 +31,7 @@ echo 'что то меняем ...';
 
 
 
-/*
+// изменеие в ветке main !!!
 $mass = [];
 $str = "9 sp863 Monstadons357 fwoms Провер593ка связи реГулярки test fromapost 12From-morest from 456879mK сНова frOmset rasmondastna and СНОва7kom Q";
 echo $str;
@@ -41,7 +41,7 @@ $kol = preg_match_all("/from[a-z]/", $str, $mass);
 
 print "<br>KOL: $kol<br><br><br>";
 print_r($mass);
-*/
+
 
 
 
